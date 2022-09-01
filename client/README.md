@@ -2,24 +2,6 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-# lien du image :
-
-https://www.pexels.com/fr-fr/
-
-https://www.pexels.com/fr-fr/photo/bureau-varan-nature-morte-minimaliste-11540450/
-
-https://www.pexels.com/fr-fr/chercher/ordinateur/
-
-https://images.pexels.com/photos/115655/pexels-photo-115655.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
-
-https://www.pexels.com/fr-fr/photo/lieu-de-travail-moderne-avec-ordinateur-portable-et-ordinateur-de-bureau-4506938/
-
-https://www.pexels.com/fr-fr/photo/macbook-pro-a-cote-de-l-usine-verte-6177610/
-
-https://www.pexels.com/fr-fr/photo/imac-argente-sur-table-blanche-6177563/
-
-https://www.istockphoto.com/photo/office-working-place-gm478421405-35972396?utm_campaign=adp_photos_sponsored&utm_content=https%3A%2F%2Fwww.pexels.com%2Ffr-fr%2Fphoto%2Fbureau-internet-connexion-table-4590385%2F&utm_medium=affiliate&utm_source=pexels&utm_term=desk
-
 ## Available Scripts
 
 In the project directory, you can run:

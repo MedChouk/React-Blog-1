@@ -1,0 +1,3 @@
+cd folder 'client & server'
+2/ npm install
+3/ npm starts
